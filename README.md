@@ -38,18 +38,24 @@ The website features a simple and intuitive navigation menu with the following s
 
 Our club is all about bringing together individuals from diverse backgrounds who share a passion for technology and innovation. We foster creativity and support revolutionary ideas. Learn more about us [here](#about).
 
-## Our SIGs
+## 🌟 Our Special Interest Groups (SIGs)
 
-We are divided into three core Special Interest Groups (SIGs) and five auxiliary SIGs. These SIGs cater to different interests and allow members to explore and collaborate in various domains.
+Explore our vibrant community divided into three core Special Interest Groups (SIGs) and five dynamic auxiliary SIGs. These SIGs cater to different interests and allow members to excel and innovate in various domains.
 
-- **Code**
-- **Gadget**
-- **Garage**
-- **Capital**
-- **Script**
-- **Tectonic**
-- **Robotonix**
-- **Vriddhi**
+### 🚀 Core SIGs
+
+1. **Code**
+2. **Gadget**
+3. **Garage**
+
+### 🌠 Auxiliary SIGs
+
+1. **Capital**
+2. **Script**
+3. **Tectonic**
+4. **Robotonix**
+5. **Vriddhi**
+
 
 ## Major Events
 
