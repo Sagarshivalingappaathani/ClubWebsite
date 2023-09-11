@@ -15,7 +15,7 @@ Welcome to the Institute Of Engineering's official website for the National Inst
 1. 🚀 [Introduction](#introduction)
 2. 🌐 [Navigation](#navigation)
 3. ℹ️ [About Us](#about-us)
-4. 🤝 [Our Special Interest Groups (SIGs)](#our-sigs)
+4. 🤝 [Our Special Interest Groups (SIGs)](#🌟 Our Special Interest Groups (SIGs))
 5. 🎉 [Major Events](#major-events)
 6. 📧 [Contact Us](#contact-us)
 
