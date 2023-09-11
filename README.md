@@ -10,7 +10,7 @@ This website was built using the following technologies and tools:
 
 Welcome to the Institute Of Engineering's official website for the National Institute of Technology Karnataka (NITK) Chapter.
 
-## What all We added In the Website
+## Table Of Content
 - [Introduction](#introduction)
 - [Navigation](#navigation)
 - [About Us](#about-us)
