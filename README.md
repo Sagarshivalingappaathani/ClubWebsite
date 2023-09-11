@@ -10,14 +10,14 @@ This website was built using the following technologies and tools:
 
 Welcome to the Institute Of Engineering's official website for the National Institute of Technology Karnataka (NITK) Chapter.
 
-## Table Of Content
-- [Introduction](#introduction)
-- [Navigation](#navigation)
-- [About Us](#about-us)
-- [Our Special Interest Groups (SIGs)](#our-sigs)
-- [Major Events](#major-events)
-- [Recruitment](#recruitment)
-- [Contact Us](#contact-us)
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Navigation](#navigation)
+3. [About Us](#about-us)
+4. [Our Special Interest Groups (SIGs)](#our-sigs)
+5. [Major Events](#major-events)
+6. [Recruitment](#recruitment)
+7. [Contact Us](#contact-us)
 
 ## Introduction
 
